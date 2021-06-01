@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Gallery</string>
+    <string name="please_try_again">please try again</string>
+    <string name="retry">retry</string>
+</resources>
